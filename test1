@@ -1,0 +1,4 @@
+git show
+git status
+git log --oneline
+
